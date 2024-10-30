@@ -1,0 +1,10 @@
+D:\ltwin\Game Caro\bin\Release\Game Caro.exe.config
+D:\ltwin\Game Caro\bin\Release\Game Caro.exe
+D:\ltwin\Game Caro\bin\Release\Game Caro.pdb
+D:\ltwin\Game Caro\obj\Release\Game Caro.csproj.AssemblyReference.cache
+D:\ltwin\Game Caro\obj\Release\Game_Caro.Form1.resources
+D:\ltwin\Game Caro\obj\Release\Game_Caro.Properties.Resources.resources
+D:\ltwin\Game Caro\obj\Release\Game Caro.csproj.GenerateResource.cache
+D:\ltwin\Game Caro\obj\Release\Game Caro.csproj.CoreCompileInputs.cache
+D:\ltwin\Game Caro\obj\Release\Game Caro.exe
+D:\ltwin\Game Caro\obj\Release\Game Caro.pdb

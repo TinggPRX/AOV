@@ -1,0 +1,28 @@
+D:\ltwin\Game Caro\bin\Debug\Game Caro.exe.config
+D:\ltwin\Game Caro\bin\Debug\Game Caro.exe
+D:\ltwin\Game Caro\bin\Debug\Game Caro.pdb
+D:\ltwin\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+D:\ltwin\Game Caro\obj\Debug\Game_Caro.Form1.resources
+D:\ltwin\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+D:\ltwin\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+D:\ltwin\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+D:\ltwin\Game Caro\obj\Debug\Game Caro.exe
+D:\ltwin\Game Caro\obj\Debug\Game Caro.pdb
+D:\ltwin\Game Caro\bin\Debug\Game Caro.exe.manifest
+D:\ltwin\Game Caro\bin\Debug\Game Caro.application
+D:\ltwin\Game Caro\obj\Debug\Game Caro.exe.manifest
+D:\ltwin\Game Caro\obj\Debug\Game Caro.application
+D:\ltwin\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+D:\ltwin\Game Caro\Game Caro\obj\Debug\Game_Caro.Form1.resources
+D:\ltwin\Game Caro\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+D:\ltwin\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+D:\ltwin\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+D:\ltwin\Game Caro\Game Caro\obj\Debug\Game Caro.exe
+D:\ltwin\Game Caro\Game Caro\obj\Debug\Game Caro.pdb
+D:\ltwin\Game Caro\Game Caro\bin\Debug\Game Caro.exe.config
+D:\ltwin\Game Caro\Game Caro\bin\Debug\Game Caro.exe.manifest
+D:\ltwin\Game Caro\Game Caro\bin\Debug\Game Caro.application
+D:\ltwin\Game Caro\Game Caro\bin\Debug\Game Caro.exe
+D:\ltwin\Game Caro\Game Caro\bin\Debug\Game Caro.pdb
+D:\ltwin\Game Caro\Game Caro\obj\Debug\Game Caro.exe.manifest
+D:\ltwin\Game Caro\Game Caro\obj\Debug\Game Caro.application
